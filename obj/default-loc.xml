@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>B:\Univ\6 sem. Paral obch\2lab\2lab_ada\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>B:\Univ\6</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>B:\Univ\6 sem. Paral obch\2lab\2lab_ada\src\sem.</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>B:\Univ\6 sem. Paral obch\2lab\2lab_ada\src\Paral</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>B:\Univ\6 sem. Paral obch\2lab\2lab_ada\src\obch\2lab\2lab_ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>B:\Univ\6 sem. Paral obch\2lab\2lab_ada\src\Paral</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>B:\Univ\6 sem. Paral obch\2lab\2lab_ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >B:\Univ\6 #209;#129;#208;#181;#208;#188;. #208;#159;#208;#176;#209;#128;#208;#176;#208;#187;. #208;#190;#208;#177;#209;#135;\2lab\2lab_ada\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >B:\Univ\6</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >B:\Univ\6 #209;#129;#208;#181;#208;#188;. #208;#159;#208;#176;#209;#128;#208;#176;#208;#187;. #208;#190;#208;#177;#209;#135;\2lab\2lab_ada\src\#208;#161;#208;#131;#208;#160;#194;#181;#208;#160;#209;#152;.</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >B:\Univ\6 #209;#129;#208;#181;#208;#188;. #208;#159;#208;#176;#209;#128;#208;#176;#208;#187;. #208;#190;#208;#177;#209;#135;\2lab\2lab_ada\src\#208;#160;#209;#159;#208;#160;#194;#176;#208;#161;#208;#130;#208;#160;#194;#176;#208;#160;#194;#187;.</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >B:\Univ\6 #209;#129;#208;#181;#208;#188;. #208;#159;#208;#176;#209;#128;#208;#176;#208;#187;. #208;#190;#208;#177;#209;#135;\2lab\2lab_ada\src\#208;#160;#209;#149;#208;#160;#194;#177;#208;#161;#226;#128;#161;\2lab\2lab_ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >B:\Univ\6 #209;#129;#208;#181;#208;#188;. #208;#159;#208;#176;#209;#128;#208;#176;#208;#187;. #208;#190;#208;#177;#209;#135;\2lab\2lab_ada\default.gpr</vfs_project>
+      <vfs_file >B:\Univ\6 #209;#129;#208;#181;#208;#188;. #208;#159;#208;#176;#209;#128;#208;#176;#208;#187;. #208;#190;#208;#177;#209;#135;\2lab\2lab_ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr</vfs_file>
+    <file_marker column=" 47" line=" 8">
+      <vfs_project >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 18" line=" 77">
+      <vfs_project >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\3.2\Paralelni OP (e) (12)\LR2!!!\Thread_ada2_git\default.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\3.2\Paralelni OP (e) (12)\LR2!!!\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file >C:\3.2\Paralelni OP (e) (12)\LR2!!!\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

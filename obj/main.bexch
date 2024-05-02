@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+B:\Univ\6 sem. Paral obch\2lab\2lab_ada\default.gpr
+20230412192154 c3274082e8541c413b5d46edd382edc3
+[BOUND OBJECT FILES]
+B:\Univ\6 sem. Paral obch\2lab\2lab_ada\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LB:\Univ\6 sem. Paral obch\2lab\2lab_ada\obj\
+-LB:\Univ\6 sem. Paral obch\2lab\2lab_ada\obj\
+-LB:/downloads/ada/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+B:/downloads/ada/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+B:/downloads/ada/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
